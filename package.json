@@ -1,7 +1,7 @@
 {
-  "name": "mojito",
+  "name": "frommcartoken",
   "version": "1.0.0",
-  "description": "audit single repository",
+  "description": "frommcartoken contract repository",
   "main": "index.js",
   "scripts": {
     "compile": "npx truffle compile",
@@ -16,8 +16,7 @@
     "analyze": "slither ./contracts"
   },
   "authors": [
-    "taek lee <leekt216@gmail.com>",
-    "yoonsung"
+    "taek lee <leekt216@gmail.com>"
   ],
   "license": "ISC",
   "devDependencies": {
